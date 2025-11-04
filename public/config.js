@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "false",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Leaderboard,Swap,Portfolio,Rewards",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
@@ -31,7 +31,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "",
-  "VITE_AVAILABLE_LANGUAGES": "",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
